@@ -23,7 +23,7 @@
 3. Отправил запрос с изображением товара в repeater
 4. В repeater изменил GET с filename=21 на ../../../etc/passwd
 
-**Payload:**
+**Payload**
 ```text
 ../../../etc/passwd
 
