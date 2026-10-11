@@ -24,7 +24,6 @@
 4. В repeater изменил GET с filename=21 на ../../../etc/passwd
 
 **Payload**
-```text
 ../../../etc/passwd
 
  **Почему это сработало:**
