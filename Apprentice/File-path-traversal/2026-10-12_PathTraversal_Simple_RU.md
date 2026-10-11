@@ -1,4 +1,4 @@
-# traversal vulnerability: File path traversal, simple case 
+# File Path Traversal: Simple Case
 
 **Платформа:** PortSwigger Web Security Academy  
 **Категория:** [Web / File Path Traversal]  
