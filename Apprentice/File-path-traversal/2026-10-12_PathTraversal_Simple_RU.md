@@ -1,9 +1,9 @@
 # File Path Traversal: Simple Case
 
 **Платформа:** PortSwigger Web Security Academy  
-**Категория:** [Web / File Path Traversal]  
+**Категория:** Web / File Path Traversal  
 **Уровень:** Apprentice 
-**Дата:** [12.10.2026]  
+**Дата:** 12.10.2026 
 **Статус:** ✅ Solved
 **Ссылка:** https://0ab300e503417255807880e800600029.web-security-academy.net/
 
