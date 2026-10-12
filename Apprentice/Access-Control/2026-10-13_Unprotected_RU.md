@@ -1,11 +1,11 @@
 # Unprotected Admin Functionality
 
-**Platform:** PortSwigger Web Security Academy  
-**Category:** Web / Access Control  
-**Level:** Apprentice  
-**Date:** 13.10.2026
-**Status:** ✅ Solved  
-**Lab Link:** https://0ade00fd037bfa1f8ae72bef009a00be.web-security-academy.net/
+**Платформа:** PortSwigger Web Security Academy  
+**Категория:** Web / Access Control  
+**Уровень:** Apprentice  
+**Дата:** 13.10.2026
+**Статус:** ✅ Solved  
+**Ссылка:** https://0ade00fd037bfa1f8ae72bef009a00be.web-security-academy.net/
 
 ---
 
