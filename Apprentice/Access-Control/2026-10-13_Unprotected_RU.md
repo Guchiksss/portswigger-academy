@@ -3,9 +3,9 @@
 **Platform:** PortSwigger Web Security Academy  
 **Category:** Web / Access Control  
 **Level:** Apprentice  
-**Date:** [сегодняшняя дата]  
+**Date:** 13.10.2026
 **Status:** ✅ Solved  
-**Lab Link:** [ссылка на лабу]
+**Lab Link:** https://0ade00fd037bfa1f8ae72bef009a00be.web-security-academy.net/
 
 ---
 
@@ -14,14 +14,17 @@
 
 ## 2. Reconnaissance
 - Открыл главную страницу сайта
-- [Что ты сделал дальше? Проверил robots.txt?]
-- [Что нашел в robots.txt?]
+- Проверил наличие robots.txt - если есть - изучаю
 
 ## 3. Exploitation
-1. [Первый шаг]
-2. [Второй шаг]
-3. [Третий шаг]
+1. В robots.txt нашел адрес незащищенной админки
+2. Зашел на незащищенную админку
+3. Удалил пользователя "carlos"
+
 
 **Payload/URL:** 
 ```text
-[какой URL ты использовал для доступа к админке?]
+/robots.txt // /administrator-panel
+
+## 4. Result
+После перехода на `/administrator-panel` открылась панель управления пользователями. Удалил пользователя `carlos`, после чего лабораторная работа была успешно пройдена и флаг получен.
