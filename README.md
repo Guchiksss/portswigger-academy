@@ -4,7 +4,6 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 
 ## 📊 Progress
 - **Apprentice:** In Progress (5 labs solved)
-- **Practitioner:** 0/51
 - **Goal:** Achieve the Web Security Practitioner Certification
 
 ## 🛠️ Tech Stack & Tools
