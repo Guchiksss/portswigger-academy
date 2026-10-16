@@ -17,6 +17,9 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 
 ### Apprentice
 
+#### 📂 File Path Traversal
+- [x] Simple Case | [🇷🇺 RU](Apprentice/File-path-traversal/01_PathTraversal_Simple_RU.md) | [🇬🇧 EN](Apprentice/File-path-traversal/01_PathTraversal_Simple_EN.md)
+
 #### 🔒 Access Control
 - [x] Unprotected Admin Functionality | [🇷🇺 RU](Apprentice/Access-Control/01_Unprotected_RU.md) | [🇬🇧 EN](Apprentice/Access-Control/01_Unprotected_EN.md)
 - [x] Unpredictable Admin Interface | [🇷🇺 RU](Apprentice/Access-Control/02_UnpredictableURL_RU.md) | [🇬🇧 EN](Apprentice/Access-Control/02_UnpredictableURL_EN.md)
@@ -30,9 +33,6 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 
 #### 🌐 SSRF
 - [x] Basic SSRF against the Local Server | [🇷🇺 RU](Apprentice/SSRF/01_BasicSSRF_RU.md) | [🇬🇧 EN](Apprentice/SSRF/01_BasicSSRF_EN.md)
-
-#### 📂 File Path Traversal
-- [x] Simple Case | [🇷🇺 RU](Apprentice/File-path-traversal/01_PathTraversal_Simple_RU.md) | [🇬🇧 EN](Apprentice/File-path-traversal/01_PathTraversal_Simple_EN.md)
 
 ## 🌐 Languages
 
