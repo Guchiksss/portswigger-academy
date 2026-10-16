@@ -5,7 +5,7 @@
 **Level:** Apprentice  
 **Date:** 14.10.2026  
 **Status:** ✅ Solved  
-**Lab Link:** [Insert your lab link here]
+**Lab Link:** https://0a0500150439d23e80b7fd7700070077.web-security-academy.net/
 
 ---
 
