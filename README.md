@@ -4,7 +4,7 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 
 ## 📊 Progress
 
-- **Apprentice:** In Progress (10 labs solved across 4 categories)
+- **Apprentice:** In Progress (12 labs solved across 5 categories)
 - **Goal:** Achieve the Web Security Practitioner Certification
 
 ## 🛠️ Tech Stack & Tools
@@ -34,6 +34,10 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 #### 🌐 SSRF
 - [x] Basic SSRF against the Local Server | [🇷🇺 RU](Apprentice/SSRF/01_BasicSSRF_RU.md) | [🇬🇧 EN](Apprentice/SSRF/01_BasicSSRF_EN.md)
 - [x] Basic SSRF against Another Back-End System | [🇷🇺 RU](Apprentice/SSRF/02_BasicSSRF_Against_BackEnd_RU.md) | [🇬🇧 EN](Apprentice/SSRF/02_BasicSSRF_Against_BackEnd_EN.md)
+
+#### 📁 File Upload Vulnerabilities
+- [x] Remote Code Execution via Web Shell Upload | [🇷🇺 RU](Apprentice/File-upload-vulnerabilities/01_WebShellUpload_RU.md) | [🇬🇧 EN](Apprentice/File-upload-vulnerabilities/01_WebShellUpload_EN.md)
+- [x] Web Shell Upload via Content-Type Restriction Bypass | [🇷🇺 RU](Apprentice/File-upload-vulnerabilities/02_ContentTypeBypass_RU.md) | [🇬🇧 EN](Apprentice/File-upload-vulnerabilities/02_ContentTypeBypass_EN.md)
 
 ## 🌐 Languages
 
