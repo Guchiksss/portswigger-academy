@@ -4,8 +4,8 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 
 ## 📊 Progress
 
-- **Apprentice:** In Progress (12 labs solved across 5 categories)
-- **Goal:** Achieve the Web Security Practitioner Certification
+- **Apprentice:** In Progress (15 labs solved across 7 categories)
+- **Goal:** Achieve the Web Security Practitioner Certification (Server-side track completed: 52/52 labs on platform)
 
 ## 🛠️ Tech Stack & Tools
 
@@ -38,6 +38,13 @@ Practical journey through PortSwigger Web Security Academy to master web applica
 #### 📁 File Upload Vulnerabilities
 - [x] Remote Code Execution via Web Shell Upload | [🇷🇺 RU](Apprentice/File-upload-vulnerabilities/01_WebShellUpload_RU.md) | [🇬🇧 EN](Apprentice/File-upload-vulnerabilities/01_WebShellUpload_EN.md)
 - [x] Web Shell Upload via Content-Type Restriction Bypass | [🇷🇺 RU](Apprentice/File-upload-vulnerabilities/02_ContentTypeBypass_RU.md) | [🇬🇧 EN](Apprentice/File-upload-vulnerabilities/02_ContentTypeBypass_EN.md)
+
+#### 💻 OS Command Injection
+- [x] Simple Case | [🇷🇺 RU](Apprentice/OS-command-injection/01_OSCmdInjection_Simple_RU.md) | [🇬🇧 EN](Apprentice/OS-command-injection/01_OSCmdInjection_Simple_EN.md)
+
+#### 🗄️ SQL Injection
+- [x] WHERE Clause to Retrieve Hidden Data | [🇷🇺 RU](Apprentice/SQL-injection/01_WhereClauseHiddenData_RU.md) | [🇬🇧 EN](Apprentice/SQL-injection/01_WhereClauseHiddenData_EN.md)
+- [x] Login Bypass | [🇷🇺 RU](Apprentice/SQL-injection/02_LoginBypass_RU.md) | [🇬🇧 EN](Apprentice/SQL-injection/02_LoginBypass_EN.md)
 
 ## 🌐 Languages
 
